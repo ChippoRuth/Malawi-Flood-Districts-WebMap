@@ -1,0 +1,26 @@
+var json_IDPCamps_2 = {
+"type": "FeatureCollection",
+"name": "IDPCamps_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "Area": "TA Mwalunju", "No. People": "634", "Children": "257", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 35.120375413683526, -17.108046395445157 ] } },
+{ "type": "Feature", "properties": { "id": "2", "Area": "TA Kadzanja", "No. People": "1400", "Children": "610", "Clinic": "No", "Water": "No", "School": "No", "Food": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 35.094744265894484, -17.014334551810073 ] } },
+{ "type": "Feature", "properties": { "id": "3", "Area": "Njanja", "No. People": "2750", "Children": "1320", "Clinic": "No", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.250533365957743, -16.942340002714431 ] } },
+{ "type": "Feature", "properties": { "id": "4", "Area": "Makaba", "No. People": "2500", "Children": "1420", "Clinic": "No", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.218888850064005, -17.070938435311586 ] } },
+{ "type": "Feature", "properties": { "id": "5", "Area": "Kan'gmbe", "No. People": "3700", "Children": "2100", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 35.155006273743687, -16.529630243062442 ] } },
+{ "type": "Feature", "properties": { "id": "6", "Area": "Gwana", "No. People": "2600", "Children": "1500", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 34.421621253572177, -15.962963437753247 ] } },
+{ "type": "Feature", "properties": { "id": "7", "Area": "Ngabu", "No. People": "3520", "Children": "2000", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.035257154391864, -16.446304132595692 ] } },
+{ "type": "Feature", "properties": { "id": "8", "Area": "Chirwa", "No. People": "2800", "Children": "1400", "Clinic": "yes", "Water": "yes", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.604612545292419, -15.461717324690396 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Ngabu 2", "No. People": "540", "Children": "130", "Clinic": "No", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.060071602146039, -16.33050067491617 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Kumasha", "No. People": "700", "Children": "350", "Clinic": "Yes", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.533777202186776, -15.247420774448203 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Balaka", "No. People": "890", "Children": "377", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.042512446767653, -15.06325938495281 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Njala", "No. People": "400", "Children": "175", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.253007483645767, -14.947773811072455 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Kalonga", "No. People": "579", "Children": "320", "Clinic": "No", "Water": "yes", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.046879430987062, -15.264216859996516 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Monkey Bay", "No. People": "4960", "Children": "2300", "Clinic": "Yes", "Water": "Yes", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 34.854667112027201, -14.140155827662792 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Monkey bay 2", "No. People": "2760", "Children": "1300", "Clinic": "No", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 34.971336732662074, -14.179430907708246 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Chitende", "No. People": "2200", "Children": "1155", "Clinic": "No", "Water": "No", "School": "Yes", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.168238911743238, -13.983825117308696 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Malombe", "No. People": "2300", "Children": "1200", "Clinic": "Yes", "Water": "Yes", "School": "Yes", "Food": "Yes" }, "geometry": { "type": "Point", "coordinates": [ 35.335299345950126, -14.684506080194057 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Machinga", "No. People": "2400", "Children": "1145", "Clinic": "No", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.611851865593977, -15.062145035245639 ] } },
+{ "type": "Feature", "properties": { "id": null, "Area": "Nsinje", "No. People": "1900", "Children": "780", "Clinic": "No", "Water": "No", "School": "No", "Food": "No" }, "geometry": { "type": "Point", "coordinates": [ 35.801135209816159, -14.84007478305552 ] } }
+]
+}
